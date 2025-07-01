@@ -1,12 +1,25 @@
-## Hi there 👋
+<div align=center> 
+  
+# Hello, I'm WonJeong👋
 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+#### 🖥️ Programming Languages
+<img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+
+<br />
+
+#### 🗂️ Skill
+<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+
+<br />
+
+#### 🔍 Research Interests
+- 🚢 Autonomous ship
+
+<br />
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=circle_jj)](https://solved.ac/circle_jj)
