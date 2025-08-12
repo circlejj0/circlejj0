@@ -18,6 +18,7 @@
 
 #### 🔍 Research Interests
 - 🚢 Autonomous ship
+- 💻 Computer programming
 
 <br />
 
