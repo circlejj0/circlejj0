@@ -12,7 +12,7 @@
 <br />
 
 #### 🗂️ Skill
-<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" /> <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/ubuntu-%23E95420.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black" />
 
 <br />
 
