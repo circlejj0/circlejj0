@@ -23,5 +23,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=circle_jj)](https://solved.ac/circle_jj)
-
-#### [📓Click my profile](https://aquamarine-chamomile-37b.notion.site/WonJeong-Kim-circle_jj-1b7ddd376801800f9f25c3348df2f685?source=copy_link)
